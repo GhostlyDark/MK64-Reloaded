@@ -1,6 +1,6 @@
 # MK64 Reloaded
 
-This is an HD texture pack for Mario Kart 64 for GLideN64 + Recomp and [Dolphin](https://github.com/GhostlyDark/mk64-reloaded-dolphin).
+This is an HD texture pack for Mario Kart 64 for GLideN64 + Recomp and [Dolphin](https://github.com/GhostlyDark/MK64-Reloaded-Dolphin) and [SpaghettiKart](https://github.com/GhostlyDark/MK64-Reloaded-SK).
 
 ![](/mk64-reloaded.jpg)
 
