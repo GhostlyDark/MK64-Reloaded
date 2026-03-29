@@ -1,0 +1,6 @@
+[mod]
+name = "MK64-Reloaded-SK"
+version = "2025-12-20"
+
+[dependencies]
+mk64-assets = ">=1.0.0-alpha1"
