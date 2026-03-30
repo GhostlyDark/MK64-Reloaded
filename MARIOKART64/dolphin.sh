@@ -795,6 +795,7 @@ cp "_temp/MARIOKART64#8212FE05#4#0_all$EXT" "$PORT/HUD/Minimap/Battle/tex1_64x64
 cp "_temp/MARIOKART64#CBA6B097#4#0_all$EXT" "$PORT/HUD/Minimap/Battle/tex1_64x64_d2a2f629871cc9a8_0$EXT"
 cp "_temp/MARIOKART64#F17D70DF#4#0_all$EXT" "$PORT/HUD/Minimap/Battle/tex1_64x64_8215aee0875b2970_0$EXT"
 
+cp "_temp/MARIOKART64#D050AF5B#0#2_all$EXT" "$PORT/HUD/Minimap/Icons/tex1_8x8_b490538688d13e2d_5$EXT"
 cp "_temp/MARIOKART64#01F85C2F#0#2_all$EXT" "$PORT/HUD/Minimap/Icons/tex1_8x8_a96c7934a95a77df_5$EXT"
 cp "_temp/MARIOKART64#19B918B2#0#2_all$EXT" "$PORT/HUD/Minimap/Icons/tex1_8x8_b0a2ecd4c329a39e_5$EXT"
 cp "_temp/MARIOKART64#44BC68D0#0#2_all$EXT" "$PORT/HUD/Minimap/Icons/tex1_8x8_3f6518b1a1042cc0_5$EXT"
