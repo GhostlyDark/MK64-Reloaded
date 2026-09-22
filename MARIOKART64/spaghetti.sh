@@ -18,27 +18,14 @@ shopt -s globstar
 # Set variables
 
 PORT="_build/MK64 Reloaded (SpaghettiKart)"
-
-echo -n "Type dds if you converted the textures to that format, otherwise just press enter to use PNG (default): "
-read VALUE
-
-case "$VALUE" in
-
-  dds)
-    EXT=".dds"
-    ;;
-
-  *)
-    EXT=".png"
-    ;;
-esac
+EXT=".png"
 
 
 
 # Remove and recreate work directories
 
-rm -drf "$PORT"
-rm -drf "_temp"
+rm -rf "$PORT"
+rm -rf "_temp"
 
 mkdir -p "$PORT"
 mkdir -p "_temp"

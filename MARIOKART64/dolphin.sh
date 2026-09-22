@@ -37,8 +37,8 @@ esac
 
 # Remove and recreate work directories
 
-rm -drf "$PORT"
-rm -drf "_temp"
+rm -rf "$PORT"
+rm -rf "_temp"
 
 mkdir -p "$PORT"
 mkdir -p "_temp"
